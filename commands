@@ -1,0 +1,1 @@
+python3 main.py --topic 502a407c-1c95-49e8-af59-0f90fa4873f0 --ca_file ./certs/AmazonRootCA1.pem --cert ./certs/certificate.pem.crt --key ./certs/private.pem.key --endpoint acwia3i5iqvrr-ats.iot.ap-northeast-1.amazonaws.com
